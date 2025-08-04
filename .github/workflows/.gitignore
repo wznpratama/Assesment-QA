@@ -1,0 +1,28 @@
+# Dependency directory
+node_modules/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Cypress reports
+cypress/reports/
+mochawesome-report/
+mochawesome.html
+*.json
+
+# Build / Coverage / Dist folders
+coverage/
+dist/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+
+# Environment files
+.env
+.env.local
