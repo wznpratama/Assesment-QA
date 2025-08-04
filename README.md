@@ -1,4 +1,4 @@
-# Assesment QA - Cypress API Test Project
+# Assesment QA - Cypress API Test Project for Dwara Artha Digital by Wizan
 
 This project contains automated API tests using [Cypress](https://www.cypress.io/) for the `POST /api/v1/assessment` endpoint.
 
